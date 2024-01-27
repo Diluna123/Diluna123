@@ -1,5 +1,11 @@
+
+<center>
+  <img src="https://www.split.io/wp-content/uploads/Blog-2160x1080_GitandGitHubatWork-1.jpg" alt="bootstrap" width="100%" height="300" /> 
+</center>
 <h1 align="center">Hi 👋, I'm Diluna Sithija Sulakshana</h1>
 <h3 align="center">Full Stack SE/ Full Stack Web Developer</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diluna123&label=Profile%20views&color=0e75b6&style=flat" alt="diluna123" /> </p>
 
@@ -11,6 +17,10 @@
 
 - 📫 How to reach me **dilunasithija111@gmail.com**
 
+  
+
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif" alt="css3" width="100%" height="auto"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/p. a diluna sithija sulakshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="p. a diluna sithija sulakshana" height="30" width="40" /></a>
@@ -18,8 +28,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <br>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -36,6 +45,6 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diluna123&show_icons=true&locale=en&layout=compact" alt="diluna123" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diluna123&show_icons=true&locale=en&layout=compact" alt="diluna123" height="180" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diluna123&show_icons=true&locale=en" alt="diluna123" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diluna123&show_icons=true&locale=en" alt="diluna123" height="180" /></p>
